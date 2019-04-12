@@ -2,7 +2,7 @@
 
 using namespace std;
 
-void myswap(int * ptr1, int* ptr2)
+void myswap(int* ptr1, int* ptr2)
 {
   auto temp = ptr1;
   ptr1 = ptr2;
